@@ -59,7 +59,7 @@
 
 # Setup Instructions
 1. Clone the repository:
-    git clone https://github.com/your-username/auth-app.git
+    git clone https://github.com/Manikarnikayadav/DESTION-FRONTEND/auth-app.git
     cd auth-app
 
 2.Install the dependencies:
